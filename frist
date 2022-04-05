@@ -1,0 +1,7 @@
+#includt<stdio.h>
+
+int main()
+{
+  printf("Hello Worlid");
+  return 0;
+ }
